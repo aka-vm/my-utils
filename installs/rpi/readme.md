@@ -12,6 +12,13 @@ sudo apt-get upgrade
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/aka-vm/my-utils/master/installs/linux/zsh_init.sh)"
 ```
+
+## ZSH Plugins
+
+```sh
+# !TODO
+```
+
 ## Homebrew
 
 ```sh
@@ -22,4 +29,9 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/i
 ## pyenv
 ```sh
 sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/aka-vm/my-utils/master/installs/rpi/pyenv.sh)"
+```
+
+## Home Assistant
+```sh
+# !TODO
 ```

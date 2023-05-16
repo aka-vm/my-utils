@@ -10,7 +10,7 @@ sudo apt-get upgrade
 ## Install zsh
 
 ```sh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/aka-vm/my-utils/master/installs/linux-ubuntu/zsh_init.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/aka-vm/my-utils/master/installs/linux-ubuntu/zsh-init.sh)"
 ```
 ## Homebrew
 
